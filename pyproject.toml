@@ -2,7 +2,6 @@
 name = "sapient-msg"
 version = "0.1.4"
 description = "SAPIENT protobuf bindings (BSI Flex 335 v2.0)"
-readme = "README.md"
 license = "MIT"
 authors = [
     { name = "Virtuoz", email = "virtuoz@demo-iot.technology" },
