@@ -1,6 +1,6 @@
 [project]
 name = "sapient-msg"
-version = "0.2.0"
+version = "0.2.1"
 description = "SAPIENT protobuf bindings (BSI Flex 335 v2.0)"
 license = "MIT"
 authors = [
